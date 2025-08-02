@@ -1,0 +1,3 @@
+C:/Users/NANDEESH/CLionProjects/MultiNotifier/cmake-build-debug/CMakeFiles/MultiNotifier.dir
+C:/Users/NANDEESH/CLionProjects/MultiNotifier/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/NANDEESH/CLionProjects/MultiNotifier/cmake-build-debug/CMakeFiles/rebuild_cache.dir
